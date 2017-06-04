@@ -7,27 +7,27 @@ Example1: SSl cert generate.
 
 
 
-# Install Nginx:
+## Install Nginx:
 ```
 brew install nginx
 ```
 
-To start nginx with a conf file:
+## To start nginx with a conf file:
 ```
 sudo nginx -c /Users/nahiyankamal/goeuro/nginx/nginx.conf
 ```
 
-To stop it:
+## To stop it:
 ```
 sudo nginx -s stop
 ```
 
-See status of nginx:
+## See status of nginx:
 ```
 sudo nginx -t
 ```
 
-See nginx version:
+## See nginx version:
 ```
 sudo nginx -V
 ```
