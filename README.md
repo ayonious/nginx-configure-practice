@@ -21,3 +21,13 @@ To stop it:
 ```
 sudo nginx -s stop
 ```
+
+See status of nginx:
+```
+sudo nginx -t
+```
+
+See nginx version:
+```
+sudo nginx -V
+```
