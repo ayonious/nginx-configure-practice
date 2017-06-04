@@ -1,4 +1,4 @@
-#Quick start tutorial on Nginx
+# Quick start tutorial on Nginx
 
 This contains multiple examples of usasges of Nginx. These are the following examples:
 ```
@@ -7,7 +7,7 @@ Example1: SSl cert generate.
 
 
 
-#Install Nginx:
+# Install Nginx:
 ```
 brew install nginx
 ```
